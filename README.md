@@ -26,10 +26,10 @@ ___
 ## <span id="5">E-R图</span>
 ![E-R图](https://github.com/rain-ux/Futures-Market/blob/main/E-Rpic.png)
 ## <span id="6">项目展示</span>
-前台页面http://150.158.32.68:8080/#/mall/show/index<br>
+商城页面http://150.158.32.68:8080/#/mall/show/index<br>
 后台管理http://150.158.32.68:8080/#/backstage/goods<br>
-![功能图]()
-![功能图]()
+![商城页面]()
+![后台管理]()
 ## <span id="7">项目已实现功能</span>
 + 登录注册；
 + 期货分类；
