@@ -22,9 +22,9 @@ ___
 ## E-R图
 ![E-R图](https://github.com/rain-ux/Futures-Market/blob/main/E-Rpic.png)
 ## 项目展示
- 前台页面150.158.32.68:8080/#/mall/show/index
- 后台管理150.158.32.68:8080/#/backstage/goods
- 已完成功能
+前台页面150.158.32.68:8080/#/mall/show/index<br>
+后台管理150.158.32.68:8080/#/backstage/goods<br>
+已完成功能<br>
 +登录注册；
 +期货分类；
 +购买期货；
