@@ -28,8 +28,8 @@ ___
 ## <span id="6">项目展示</span>
 前台页面http://150.158.32.68:8080/#/mall/show/index<br>
 后台管理http://150.158.32.68:8080/#/backstage/goods<br>
-![功能图](https://github.com/rain-ux/Futures-Market/blob/main/FuncPic.png)
-![功能图](https://github.com/rain-ux/Futures-Market/blob/main/FuncPic.png)
+![功能图]()
+![功能图]()
 ## <span id="7">项目已实现功能</span>
 + 登录注册；
 + 期货分类；
