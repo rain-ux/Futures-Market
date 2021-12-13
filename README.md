@@ -10,4 +10,4 @@ ___
 ___
 ##  项目功能
 
-![szy](https://github.com/rain-ux/Futures-Market/blob/main/功能图.png)
+![szy](https://github.com/rain-ux/Futures-Market/blob/main/FuncPic.png)
