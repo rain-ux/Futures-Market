@@ -21,14 +21,17 @@ ___
 ![功能图](https://github.com/rain-ux/Futures-Market/blob/main/FuncPic.png)
 ## E-R图
 ![E-R图](https://github.com/rain-ux/Futures-Market/blob/main/E-Rpic.png)
-## 已完成功能
-登录注册；
-期货分类；
-购买期货；
-搜索期货；
-购物车；
-订单管理；
-期货问答；
-期货评价；
-修改资料；
-后台管理
+## 项目展示
+前台页面[![前台页面]](150.158.32.68:8080/#/mall/show/index) 
+后台管理[![后台管理]](150.158.32.68:8080/#/backstage/goods) 
+已完成功能
++登录注册；
++期货分类；
++购买期货；
++搜索期货；
++购物车；
++订单管理；
++期货问答；
++期货评价；
++修改资料；
++后台管理
