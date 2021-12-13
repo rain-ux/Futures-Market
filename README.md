@@ -19,6 +19,8 @@ ___
 
 ##  项目功能
 ![功能图](https://github.com/rain-ux/Futures-Market/blob/main/FuncPic.png)
+E-R图
+![E-R图](https://github.com/rain-ux/Futures-Market/blob/main/E-Rpic.png)
 ## 已完成功能
 登录注册；
 期货分类；
