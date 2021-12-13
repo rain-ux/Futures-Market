@@ -9,4 +9,5 @@ ___
 3. 网站的测试并完善期货交易的功能，完善文档并进行总结。
 ___
 ##  项目功能
-https://github.com/rain-ux/Futures-Market/blob/main/功能图.png
+
+![szy](https://github.com/rain-ux/Futures-Market/blob/main/功能图.png)
